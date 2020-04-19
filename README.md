@@ -17,7 +17,7 @@
 5. Mildew
 6. Black rot
 
-There are 1,110 images with 200-300 images per class.
+There are 1,110 images with 200 images per class.
 
 
 Images are zipped in grape-disease-data.zip and were stored on a shared Google Drive for training.
